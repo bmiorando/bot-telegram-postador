@@ -14,7 +14,7 @@ canal_estoque = 'https://t.me/+HRd8kJ8Pw3ViODAx'
 canal_destino = 'https://t.me/principaldalala'
 
 # === CONFIGURAÇÕES DE POSTAGEM ===
-horarios_postagem = ['21:41', '21:43', '21:44', '21:46', '21:48']
+horarios_postagem = ['22:10', '22:12', '22:14', '22:16', '22:18']
 qtd_por_dia = len(horarios_postagem)
 arquivo_ids = 'publicados.json'
 arquivo_fila = 'fila_postagens.json'
